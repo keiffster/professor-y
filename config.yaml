@@ -34,8 +34,8 @@ brain:
             files: $BOT_ROOT/aiml
             extension: .aiml
             directories: true
-            errors: /tmp/professor_errors.txt
-            duplicates: /tmp/professor_duplicates.txt
+            #errors: /tmp/professor_errors.txt
+            #duplicates: /tmp/professor_duplicates.txt
         sets:
             files: $BOT_ROOT/sets
             extension: .txt
